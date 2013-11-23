@@ -1,0 +1,5 @@
+./iofuzz  -nc no_of_times devnode 
+
+
+eg:
+./iofuzz  -nc 100000 /dev/gemini0
